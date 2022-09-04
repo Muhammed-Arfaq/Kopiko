@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+.header{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    margin-top: -40px;
+}
+
+.title:hover{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.title{
+    font-size: 50px;
+    letter-spacing: 0.1em;
+    color: #999999;
+    width: 100%;
+    height: 50px;
+    padding-top: 70px;
+}
+
+.sub{
+    letter-spacing: 0.2em;
+    padding-top: 10px;
+    font-family: "Open Sans", sans-serif;
+    color: #999999;
+    width: 100%;
+    height: 50px;
+}
+
+
+.line{
+    transform: scale(0.95,.2);
+    color: #999999;
+    margin-top: -4px;
+}
+
+.nav{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    padding-top: 3;
+    word-spacing: 0px;
+
+}
+
+.nav ul{
+    margin: 400px;
+    margin-top: 16px;
+}
+
+.nav ul li{
+    display: inline;
+    padding-left: 31px;
+}
+
+.nav ul li a{
+    color: white;
+}
+
+.nav1:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.nav2:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.nav3:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.nav4:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.nav5:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.nav6:hover a{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.image1{
+    width: 100%;
+}
+
+.text1{
+    text-align: center;
+    color: #999999;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    line-height: 1.6em;
+    letter-spacing: -0.6px;
+    margin-top: 188px;
+    /* margin-left: 35px; */
+    margin-left: 91px;
+}
+
+.text2{
+    color: #999999;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    margin-top: 35px;
+    margin-left: 91px;
+
+}
+
+.image2{
+  display: block;
+  margin-left: 328px;
+  width: 50%;
+  margin-top: 40px;
+}
+
+.icons{
+    margin-left: 501px;
+    margin-top: 202px;
+    word-spacing: 120px;
+ 
+}
+
+.icons:hover{
+    cursor: pointer;
+}
+
+.footer{
+    color: #999999;
+    margin-top: 140px;
+    margin-left: 549px;
+    padding-bottom: 50px;
+}
